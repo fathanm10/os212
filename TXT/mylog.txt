@@ -12,3 +12,4 @@ ZCZC W00  30 L13 Assignment #03
 ZCZC W00  60 L73 Gaming
 ZCZC W00 360 L84 Relax, Rest, and Sleep
 ZCZC W00 420 L70 Studying for other courses.
+ZCZC W00 120 L02 ZOOM meetings related
