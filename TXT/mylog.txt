@@ -13,3 +13,13 @@ ZCZC W00  60 L73 Gaming
 ZCZC W00 360 L84 Relax, Rest, and Sleep
 ZCZC W00 420 L70 Studying for other courses.
 ZCZC W00 120 L02 ZOOM meetings related
+ZCZC W01  60 L11 Assignment #01
+ZCZC W01  40 L12 Assignment #02
+ZCZC W01  60 L13 Assignment #03
+ZCZC W01  40 L14 Assignment #04
+ZCZC W01  30 L15 Assignment #05
+ZCZC W01  60 L16 Assignment #06
+ZCZC W01  15 L17 Assignment #07
+ZCZC W01  60 L18 Assignment #08
+ZCZC W01 180 L06 References/Books/Documents/GSGS related
+ZCZC W01  50 L71 Working  (General)
