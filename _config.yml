@@ -13,8 +13,6 @@ navbarlinks:
   link:      "/LINKS/"
 - navbar:    "GitHub"
   link:      "https://github.com/fathanm10/os212"
-- navbar:    "GitHub Page"
-  link:      "https://fathanm10.github.io/os212/"
 title:       "fathanm10's GitHub Page"
 lang:        "en-US"
 author:      "fathanm10"
