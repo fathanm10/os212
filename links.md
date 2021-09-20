@@ -16,3 +16,8 @@ It does what it says as it is. Recording your lectures has never been easier.
 4. [C Programming Exercises, Practice, Solution](https://w3resource.com/c-programming-exercises/)<br>
 Learn and practice C Programming language. Dive deep into this decades-old language.
 
+5. [LinuxFromScratch](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
+Provides you with step-by-step instructions for building your own customized Linux system entirely from source.
+
+6. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
+Home to my other programming projects.
