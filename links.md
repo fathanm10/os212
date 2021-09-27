@@ -19,5 +19,8 @@ Learn and practice C Programming language. Dive deep into this decades-old langu
 5. [LinuxFromScratch](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
 Provides you with step-by-step instructions for building your own customized Linux system entirely from source.
 
-6. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
+6. [Vim Basics](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+Learn Vim Basics in 8 Minutes. Compact and very informative.
+
+7. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
 Home to my other programming projects.

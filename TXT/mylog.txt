@@ -48,3 +48,12 @@ ZCZC W03  10 L16 Assignment #06
 ZCZC W03  10 L17 Assignment #07
 ZCZC W03  30 L18 Assignment #08
 ZCZC W03   5 L19 Assignment #09
+ZCZC W04 120 L11 Assignment #01
+ZCZC W04  90 L12 Assignment #02
+ZCZC W04  90 L13 Assignment #03
+ZCZC W04  10 L14 Assignment #04
+ZCZC W04  10 L15 Assignment #05
+ZCZC W04  10 L16 Assignment #06
+ZCZC W04  10 L17 Assignment #07
+ZCZC W04  15 L18 Assignment #08
+ZCZC W04   5 L19 Assignment #09
