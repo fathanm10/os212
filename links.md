@@ -22,5 +22,8 @@ Provides you with step-by-step instructions for building your own customized Lin
 6. [Vim Basics](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
 Learn Vim Basics in 8 Minutes. Compact and very informative.
 
-7. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
+7. [Virtual Memory:Paging](https://www.cs.unc.edu/~porter/courses/comp530/f20/slides/paging.pdf)<br>
+Slides about virtual memory paging; great for illustrating how paging works.
+
+8. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
 Home to my other programming projects.
