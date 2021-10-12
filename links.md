@@ -13,17 +13,24 @@ Main learning page for CSUI students. Learn new things and submit your assignmen
 3. [Apowersoft Free Online Screen Recorder](https://www.apowersoft.com/free-online-screen-recorder)<br>
 It does what it says as it is. Recording your lectures has never been easier.
 
-4. [C Programming Exercises, Practice, Solution](https://w3resource.com/c-programming-exercises/)<br>
+4. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
+Home to my other programming projects.
+
+5. [C Programming Exercises, Practice, Solution](https://w3resource.com/c-programming-exercises/)<br>
 Learn and practice C Programming language. Dive deep into this decades-old language.
 
-5. [LinuxFromScratch](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
+6. [LinuxFromScratch](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
 Provides you with step-by-step instructions for building your own customized Linux system entirely from source.
 
-6. [Vim Basics](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+7. [Vim Basics](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
 Learn Vim Basics in 8 Minutes. Compact and very informative.
 
-7. [Virtual Memory:Paging](https://www.cs.unc.edu/~porter/courses/comp530/f20/slides/paging.pdf)<br>
+8. [Virtual Memory:Paging](https://www.cs.unc.edu/~porter/courses/comp530/f20/slides/paging.pdf)<br>
 Slides about virtual memory paging; great for illustrating how paging works.
 
-8. [My GitLab Account](https://gitlab.com/fathan.muhammad01)<br>
-Home to my other programming projects.
+9. [Memory Virtualization](https://www.youtube.com/watch?v=A3qvxIgrhgY)<br>
+Virtualization is technology that lets you create useful IT services, in this video you will learn about cloud computing, virtualization, their differences, and KVM technology.
+
+10. [Page Tables](https://www.javatpoint.com/os-page-table)<br>
+Page Table is a data structure used by the virtual memory system to store the mapping between logical addresses and physical addresses. This page explains page table in general.
+
