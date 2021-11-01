@@ -34,3 +34,5 @@ Virtualization is technology that lets you create useful IT services, in this vi
 10. [Page Tables](https://www.javatpoint.com/os-page-table)<br>
 Page Table is a data structure used by the virtual memory system to store the mapping between logical addresses and physical addresses. This page explains page table in general.
 
+11. [Processes and Threads](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
+A process is basically a program in execution. Meanwhile, a thread is a flow of execution through the process code. This page sums up about multi-threading processes within programs.
