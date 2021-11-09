@@ -36,3 +36,9 @@ Page Table is a data structure used by the virtual memory system to store the ma
 
 11. [Processes and Threads](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
 A process is basically a program in execution. Meanwhile, a thread is a flow of execution through the process code. This page sums up about multi-threading processes within programs.
+
+12. [Fork in C](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+Explains fork as the primary method of process creation on Unix-like operating systems. Fork is a function which creates a new copy called the child out of the original process. Fork allows multiple processes to ran simultaneously.
+
+13. [Dining Philosophers Problem] (https://www.youtube.com/watch?v=NbwbQQB7xNQ)<br>
+A solution to Dining Philosophers Problem, used to explain the problems of deadlock, resource contention, and process synchronization in an operating system and for multi-threaded programming.
