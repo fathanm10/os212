@@ -42,3 +42,6 @@ Explains fork as the primary method of process creation on Unix-like operating s
 
 13. [Dining Philosophers Problem] (https://www.youtube.com/watch?v=NbwbQQB7xNQ)<br>
 A solution to Dining Philosophers Problem, used to explain the problems of deadlock, resource contention, and process synchronization in an operating system and for multi-threaded programming.
+
+14. [Linux from Scratch – Is it worth it?] (https://0xc0decafe.com/linux-from-scratch-is-it-worth-it/)<br>
+Still have doubts about building Linux from scratch? Read this article to find out from a different perspective.
